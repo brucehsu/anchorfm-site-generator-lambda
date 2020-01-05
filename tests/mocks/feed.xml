@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:anchor="https://anchor.fm/xmlns">
+	<channel>
+		<title><![CDATA[Taiwanese Expats in Tech]]></title>
+		<description><![CDATA[在海外科技產業工作的台灣人們，有著什麼樣的故事與大家分享呢？讓我們一起來聽聽吧！]]></description>
+		<link>https://anchor.fm/twexpatsintech</link>
+		<image>
+			<url>https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/2449560/2449560-1570649604778-e15ccb5242976.jpg</url>
+			<title>Taiwanese Expats in Tech</title>
+			<link>https://anchor.fm/twexpatsintech</link>
+		</image>
+		<generator>Anchor Podcasts</generator>
+		<lastBuildDate>Sun, 05 Jan 2020 15:50:16 GMT</lastBuildDate>
+		<atom:link href="https://anchor.fm/s/f3251e0/podcast/rss" rel="self" type="application/rss+xml"/>
+		<author><![CDATA[Szu-Kai Hsu]]></author>
+		<copyright><![CDATA[Szu-Kai Hsu]]></copyright>
+		<language><![CDATA[zh-tw]]></language>
+		<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+		<itunes:author>Szu-Kai Hsu</itunes:author>
+		<itunes:summary>在海外科技產業工作的台灣人們，有著什麼樣的故事與大家分享呢？讓我們一起來聽聽吧！</itunes:summary>
+		<itunes:type>episodic</itunes:type>
+		<itunes:owner>
+			<itunes:name>Szu-Kai Hsu</itunes:name>
+			<itunes:email>podcasts22+f3251e0@anchor.fm</itunes:email>
+		</itunes:owner>
+		<itunes:explicit>No</itunes:explicit>
+		<itunes:category text="Business">
+			<itunes:category text="Careers"/>
+		</itunes:category>
+		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/2449560/2449560-1570649604778-e15ccb5242976.jpg"/>
+		<item>
+			<title><![CDATA[Episode 2 - 臺灣 PM 的海外職涯, with Peter Su]]></title>
+			<description><![CDATA[<p>本集節目裡，我們邀請到了曾在荷蘭工作過，現職為 Grab 產品經理的 Peter Su 來分享他在兩地的工作心得，除了比較不同組織裡的工作文化以及 PM 角色定位的差異外，也從他的經驗出發，談個人職涯學習與成長的各種面向。</p>
+]]></description>
+			<link>https://anchor.fm/twexpatsintech/episodes/Episode-2----PM---with-Peter-Su-e9b39g</link>
+			<guid isPermaLink="false">b7280d81-30c9-c6b0-0b37-6e021e6c9612</guid>
+			<dc:creator><![CDATA[Szu-Kai Hsu]]></dc:creator>
+			<pubDate>Wed, 04 Dec 2019 08:47:04 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/f3251e0/podcast/play/8801008/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-11-4%2F36580039-44100-2-4631d0328e34f.mp3" length="104353958" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;本集節目裡，我們邀請到了曾在荷蘭工作過，現職為 Grab 產品經理的 Peter Su 來分享他在兩地的工作心得，除了比較不同組織裡的工作文化以及 PM 角色定位的差異外，也從他的經驗出發，談個人職涯學習與成長的各種面向。&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>4348</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/2449560/2449560-1570649604778-e15ccb5242976.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>3</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Episode 1 - 從台灣新創到日本會社, with Denny Ku (@tinydenny)]]></title>
+			<description><![CDATA[<p>本集節目裡，我們邀請到了旅居日本的前端工程師，同時也是《頂樓加蓋 Overbuild》 Podcast 的主持人之一 Denny Ku (@tinydenny) 來分享他近二年多來對日本職場文化的觀察，我們也從各自在新創公司工作的經驗，去分析新創公司與成熟公司之間有什麼值得注意的差異。</p>
+]]></description>
+			<link>https://anchor.fm/twexpatsintech/episodes/Episode-1-----with-Denny-Ku-tinydenny-e8r7qh</link>
+			<guid isPermaLink="false">beefe58d-ac06-2cf5-40ea-d97465f05607</guid>
+			<dc:creator><![CDATA[Szu-Kai Hsu]]></dc:creator>
+			<pubDate>Tue, 05 Nov 2019 22:22:22 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/f3251e0/podcast/play/8281361/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-10-5%2F33003255-32000-2-2bf4789476e9c.mp3" length="57142296" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;本集節目裡，我們邀請到了旅居日本的前端工程師，同時也是《頂樓加蓋 Overbuild》 Podcast 的主持人之一 Denny Ku (@tinydenny) 來分享他近二年多來對日本職場文化的觀察，我們也從各自在新創公司工作的經驗，去分析新創公司與成熟公司之間有什麼值得注意的差異。&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:duration>3313</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/2449560/2449560-1570649604778-e15ccb5242976.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>2</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Episode 0 - 荷蘭台勞們的 543, with @qcl]]></title>
+			<description><![CDATA[<p>在這集的節目裡，同樣來到荷蘭工作的 Bruce 與 QCL 兩人當初是如何選擇到阿姆斯特丹？歐洲的生活與台灣相比又有何差異呢？</p>
+<p>節目附註：<br>
+經網友指正，我 (Bruce) 對荷蘭 BOX-3 的課稅說明有誤，詳細可以參考部落客 台客J 的此篇文章說明：<a href="https://taikej.blog/荷蘭萬萬稅part-2-可怕的資本利得稅/">https://taikej.blog/荷蘭萬萬稅part-2-可怕的資本利得稅/</a></p>
+]]></description>
+			<link>https://anchor.fm/twexpatsintech/episodes/Episode-0----543--with-qcl-e6ep0o</link>
+			<guid isPermaLink="false">24bed4d2-a443-743f-a9fd-f21427562382</guid>
+			<dc:creator><![CDATA[Szu-Kai Hsu]]></dc:creator>
+			<pubDate>Wed, 09 Oct 2019 19:38:34 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/f3251e0/podcast/play/5775832/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-9-9%2F27328729-44100-2-3040078f99531.mp3" length="69273080" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;在這集的節目裡，同樣來到荷蘭工作的 Bruce 與 QCL 兩人當初是如何選擇到阿姆斯特丹？歐洲的生活與台灣相比又有何差異呢？&lt;/p&gt;
+&lt;p&gt;節目附註：&lt;br&gt;
+經網友指正，我 (Bruce) 對荷蘭 BOX-3 的課稅說明有誤，詳細可以參考部落客 台客J 的此篇文章說明：&lt;a href=&quot;https://taikej.blog/荷蘭萬萬稅part-2-可怕的資本利得稅/&quot;&gt;https://taikej.blog/荷蘭萬萬稅part-2-可怕的資本利得稅/&lt;/a&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>2639</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/2449560/2449560-1570649604778-e15ccb5242976.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+	</channel>
+</rss>
