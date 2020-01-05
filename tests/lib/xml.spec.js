@@ -13,7 +13,7 @@ describe('XML Parsing', () => {
             text: jest.fn().mockResolvedValue(fs.readFileSync(mockFeedPath, 'utf8'))
         });
         const result = await fetchFeed(mockAnchorId);
-        const channel = result.rss.channel;
+        const { channel } = result.rss;
         expect(fetch.mock.calls.length).toBe(1);
         expect(fetch.mock.calls[0][0]).toBe(`https://anchor.fm/s/${mockAnchorId}/podcast/rss`);
         expect(channel.title).toBe('Taiwanese Expats in Tech');
