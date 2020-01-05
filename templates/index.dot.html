@@ -1,0 +1,17 @@
+<html>
+    <head>
+        <title>{{= it.title}}</title>
+        <link rel="stylesheet" type="text/css" href="assets/stylesheet.css">
+        <meta charset="utf-8">
+    </head>
+    <body>
+        <a href="/"><div id="logo"></div></a>
+        {{~it.episodes :episode:index}}
+            <div class="episode">
+                <a href="/episodes/{{= episode.episode}}.html"><h3>{{= episode.title}}</h3></a>
+                <h4>{{= episode.pubDate}}</h4>
+                <p>{{= episode.description}}</p>
+            </div>
+        {{~}}
+    </body>
+</html>
