@@ -35,3 +35,7 @@ body {
     margin-top: 4px;
     margin-bottom: 4px;
 }
+
+.episode a {
+    color: #40AEDD;
+}
