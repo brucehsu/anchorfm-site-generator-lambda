@@ -32,7 +32,7 @@ const uploadAssets = async (dir, bucketName) => {
 };
 
 module.exports.handler = async () => {
-  const { ANCHOR_ID, BUCKET_NAME } = process.env;
+  const { ANCHOR_ID, BUCKET_NAME, DOMAIN_NAME } = process.env;
   const feed = await fetchFeed(ANCHOR_ID);
   const podcast = normalize(feed);
 
@@ -42,20 +42,24 @@ module.exports.handler = async () => {
     .putObject({
       Bucket: BUCKET_NAME,
       Key: "index.html",
-      Body: generateIndex(podcast),
+      Body: generateIndex({ domain: DOMAIN_NAME, ...podcast }),
       ContentType: "text/html"
     })
     .promise();
 
   // eslint-disable-next-line no-restricted-syntax
   for (const episode of podcast.episodes) {
+    const uri = `episodes/${episode.episode}.html`;
     // eslint-disable-next-line no-await-in-loop
     await s3
       .putObject({
         Bucket: BUCKET_NAME,
-        Key: `episodes/${episode.episode}.html`,
+        Key: uri,
         Body: generateEpisode({
           title: podcast.title,
+          description: podcast.description,
+          domain: DOMAIN_NAME,
+          uri,
           episode
         }),
         ContentType: "text/html"

@@ -135,6 +135,7 @@ functions:
     environment:
       BUCKET_NAME: ${self:custom.s3BucketName}
       ANCHOR_ID: ${self:custom.anchorId}
+      DOMAIN_NAME: ${self:custom.domain}
 #    Rather than manual, you could also trigger it periodically
 #    events:
 #      - schedule: rate(2 hours)

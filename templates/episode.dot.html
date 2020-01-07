@@ -2,12 +2,16 @@
     <head>
         <title>{{= it.title}} - {{= it.episode.title}}</title>
         <link rel="stylesheet" type="text/css" href="/assets/stylesheet.css">
-        <meta charset="utf-8">
+        <meta charset="utf-8" />
+        <meta property="og:title" content="{{= it.episode.title}}" />
+        <meta property="og:site_name" content="{{= it.title}}" />
+        <meta property="og:url" content="https://{{= it.domain}}/{{= it.uri}}" />
+        <meta property="og:image" content="https://{{= it.domain}}/assets/logo.png" />
     </head>
     <body>
         <a href="/"><div id="logo"></div></a>
         <div class="episode">
-            <a href="{{= it.episode.link}}"><h3>{{= it.episode.title}}</h3></a>
+            <a href="https://{{= it.domain}}/{{= it.episode.uri}}"><h3>{{= it.episode.title}}</h3></a>
             <h4>{{= it.episode.pubDate}} / Episode {{= it.episode.episode}}</h4>
             <p><iframe src="{{= it.episode.embedLink }}" height="102px" width="400px" frameborder="0" scrolling="no"></iframe></p>
             <p>{{= it.episode.description}}</p>
